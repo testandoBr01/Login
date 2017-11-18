@@ -1,0 +1,4 @@
+"Richard Dolen", 135
+"Geraldine Ferraro", 93
+"James Fraser", 122
+"Max Plager", 92
